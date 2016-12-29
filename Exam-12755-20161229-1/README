@@ -1,0 +1,2 @@
+控制台命令
+mvn exec:java -Dexec.mainClass="com.jeasen.Exam_12755_20161229_1.App"
